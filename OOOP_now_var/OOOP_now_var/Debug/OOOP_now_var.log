@@ -1,0 +1,23 @@
+﻿Сборка начата 30.09.2016 18:24:35.
+     1>Проект "c:\Users\Никита\documents\visual studio 2015\Projects\OOOP_now_var\OOOP_now_var\OOOP_now_var.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OOOP_now_var.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOOP_now_var.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Books.cpp OOOP_now_var.cpp
+         OOOP_now_var.cpp
+         Books.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\никита\documents\visual studio 2015\Projects\OOOP_now_var\Debug\OOOP_now_var.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\никита\documents\visual studio 2015\Projects\OOOP_now_var\Debug\OOOP_now_var.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\никита\documents\visual studio 2015\Projects\OOOP_now_var\Debug\OOOP_now_var.lib" /MACHINE:X86 Debug\Books.obj
+         Debug\OOOP_now_var.obj
+         Debug\stdafx.obj
+         OOOP_now_var.vcxproj -> c:\users\никита\documents\visual studio 2015\Projects\OOOP_now_var\Debug\OOOP_now_var.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOOP_now_var.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOOP_now_var.tlog\OOOP_now_var.lastbuildstate".
+     1>Сборка проекта "c:\Users\Никита\documents\visual studio 2015\Projects\OOOP_now_var\OOOP_now_var\OOOP_now_var.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.89
