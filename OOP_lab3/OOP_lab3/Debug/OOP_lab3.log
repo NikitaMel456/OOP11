@@ -1,0 +1,39 @@
+﻿Сборка начата 08.10.2016 8:43:12.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab3\OOP_lab3\OOP_lab3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OOP_lab3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_lab3.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Enhineer.cpp OOP_lab3.cpp Turner.cpp Worker.cpp
+         Enhineer.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3240: setname: должна быть неперегруженной абстрактной функцией-членом "Person"
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C2838: setname: недопустимое полное имя в объявлении члена
+         c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): note: Явное переопределение допускается только для метода, который был впервые введен в интерфейсе, и квалификатор переопределения которого является интерфейсом 
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3244: void Worker::setname(std::string): этот метод был создан "<Нет данных>", но не "Person"
+         Создание кода...
+         Компиляция...
+         OOP_lab3.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3240: setname: должна быть неперегруженной абстрактной функцией-членом "Person"
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C2838: setname: недопустимое полное имя в объявлении члена
+         c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): note: Явное переопределение допускается только для метода, который был впервые введен в интерфейсе, и квалификатор переопределения которого является интерфейсом 
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3244: void Worker::setname(std::string): этот метод был создан "<Нет данных>", но не "Person"
+         Создание кода...
+         Компиляция...
+         Turner.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3240: setname: должна быть неперегруженной абстрактной функцией-членом "Person"
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C2838: setname: недопустимое полное имя в объявлении члена
+         c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): note: Явное переопределение допускается только для метода, который был впервые введен в интерфейсе, и квалификатор переопределения которого является интерфейсом 
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3244: void Worker::setname(std::string): этот метод был создан "<Нет данных>", но не "Person"
+         Создание кода...
+         Компиляция...
+         Worker.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3240: setname: должна быть неперегруженной абстрактной функцией-членом "Person"
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C2838: setname: недопустимое полное имя в объявлении члена
+         c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): note: Явное переопределение допускается только для метода, который был впервые введен в интерфейсе, и квалификатор переопределения которого является интерфейсом 
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab3\oop_lab3\worker.h(12): error C3244: void Worker::setname(std::string): этот метод был создан "<Нет данных>", но не "Person"
+         Создание кода...
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab3\OOP_lab3\OOP_lab3.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.22
