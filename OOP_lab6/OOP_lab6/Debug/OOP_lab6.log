@@ -1,0 +1,24 @@
+﻿Сборка начата 10.12.2016 9:01:09.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\OOP_lab6\OOP_lab6.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\OOP_lab6.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OOP_lab6.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_lab6.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp OOP_lab6.cpp
+         OOP_lab6.cpp
+         List.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\Debug\OOP_lab6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\Debug\OOP_lab6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\Debug\OOP_lab6.lib" /MACHINE:X86 Debug\List.obj
+         Debug\OOP_lab6.obj
+         Debug\stdafx.obj
+         OOP_lab6.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\Debug\OOP_lab6.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOP_lab6.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOP_lab6.tlog\OOP_lab6.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab6\OOP_lab6\OOP_lab6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.99
