@@ -1,0 +1,21 @@
+﻿Сборка начата 27.12.2016 15:27:47.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\OOP_lab10_STL\OOP_lab10_STL.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OOP_lab10_STL.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_lab10_STL.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOP_lab10_STL.cpp
+         OOP_lab10_STL.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab10_stl\oop_lab10_stl\oop_lab10_stl.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\Debug\OOP_lab10_STL.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\Debug\OOP_lab10_STL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\Debug\OOP_lab10_STL.lib" /MACHINE:X86 Debug\OOP_lab10_STL.obj
+         Debug\stdafx.obj
+         OOP_lab10_STL.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\Debug\OOP_lab10_STL.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOP_lab10_STL.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOP_lab10_STL.tlog\OOP_lab10_STL.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_lab10_STL\OOP_lab10_STL\OOP_lab10_STL.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.40
