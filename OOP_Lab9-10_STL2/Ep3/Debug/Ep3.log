@@ -1,0 +1,21 @@
+﻿Сборка начата 27.12.2016 19:20:06.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Ep3\Ep3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Ep3.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Ep3.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Ep3.cpp
+         Ep3.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\oop_lab9-10_stl2\ep3\ep3.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Debug\Ep3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Debug\Ep3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Debug\Ep3.lib" /MACHINE:X86 Debug\Ep3.obj
+         Debug\stdafx.obj
+         Ep3.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Debug\Ep3.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Ep3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Ep3.tlog\Ep3.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Ep3\Ep3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.52

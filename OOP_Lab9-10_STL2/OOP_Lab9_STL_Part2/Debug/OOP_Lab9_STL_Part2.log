@@ -1,0 +1,18 @@
+﻿Сборка начата 27.12.2016 17:48:06.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\OOP_Lab9_STL_Part2\OOP_Lab9_STL_Part2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\OOP_Lab9.7660AF9D.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         OOP_Lab9_STL_Part2.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\Debug\OOP_Lab9_STL_Part2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOP_Lab9.7660AF9D.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOP_Lab9.7660AF9D.tlog\OOP_Lab9_STL_Part2.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab9-10_STL2\OOP_Lab9_STL_Part2\OOP_Lab9_STL_Part2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.07
