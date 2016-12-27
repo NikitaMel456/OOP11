@@ -1,0 +1,19 @@
+﻿Сборка начата 23.12.2016 19:06:53.
+     1>Проект "C:\Users\Никита\Desktop\OOP_LAB_MFC\OOP_LAB_MFC\OOP_LAB_MFC.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OOP_LAB_MFC.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt First.cpp
+         First.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Desktop\OOP_LAB_MFC\Debug\OOP_LAB_MFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Никита\Desktop\OOP_LAB_MFC\Debug\OOP_LAB_MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Desktop\OOP_LAB_MFC\Debug\OOP_LAB_MFC.lib" /MACHINE:X86 Debug\First.obj
+         OOP_LAB_MFC.vcxproj -> C:\Users\Никита\Desktop\OOP_LAB_MFC\Debug\OOP_LAB_MFC.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOP_LAB_MFC.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOP_LAB_MFC.tlog\OOP_LAB_MFC.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Desktop\OOP_LAB_MFC\OOP_LAB_MFC\OOP_LAB_MFC.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.74
