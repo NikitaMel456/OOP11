@@ -1,0 +1,20 @@
+﻿Сборка начата 26.11.2016 8:33:49.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\OOP_Lab7_reborned\OOP_Lab7_reborned.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OOP_Lab7.1B4543C5.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOP_Lab7_reborned.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOP_Lab7_reborned.cpp
+         OOP_Lab7_reborned.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\Debug\OOP_Lab7_reborned.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\Debug\OOP_Lab7_reborned.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\Debug\OOP_Lab7_reborned.lib" /MACHINE:X86 Debug\OOP_Lab7_reborned.obj
+         Debug\stdafx.obj
+         OOP_Lab7_reborned.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\Debug\OOP_Lab7_reborned.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OOP_Lab7.1B4543C5.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OOP_Lab7.1B4543C5.tlog\OOP_Lab7_reborned.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\OOP_Lab7_reborned\OOP_Lab7_reborned\OOP_Lab7_reborned.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.28
